@@ -4,5 +4,21 @@
   <artifactId>NewJourney1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>newjourney1</name>
+  <url>htps://mvnrepository.com,/</url>
+  <dependencies>
+		<dependency>
+   			 <groupId>org.seleniumhq.selenium</groupId>
+   			 <artifactId>selenium-java</artifactId>
+   			 <version>4.3.0</version>
+		</dependency>
+  </dependencies>	
+ 
+
+
+
+
 </project>
+
+
+
 
